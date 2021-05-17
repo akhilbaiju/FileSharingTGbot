@@ -9,7 +9,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
-START_MSG = os.environ.get("START_MESSAGE", "Hi {firstname}\n\n I'm a file sharing bot purposefully made by for @honeybeemovies.")
+START_MSG = os.environ.get("START_MESSAGE", "Hi {firstname}\n\n I'm a file sharing bot.")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
