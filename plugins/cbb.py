@@ -7,7 +7,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b> \n Join @HoneyBeeMovies </b>",
+            text = f"<b> \n Bot Repository = <a href='https://github.com/akhilbaiju/FileSharingTGbot'>File Sharing Bot</a></b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
