@@ -30,3 +30,8 @@ FORCE_SUB_CHANNEL Optional: ForceSub Channel ID, leave 0 if you want disable for
 ## DEPLOY Button Area
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhilbaiju/FileSharingTGbot)
+
+
+<p align="center">
+  honeybeeindustries
+</p>
