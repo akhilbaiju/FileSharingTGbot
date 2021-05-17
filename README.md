@@ -27,6 +27,6 @@ START_MESSAGE Optional: start message of bot, use HTML and fillings
 
 FORCE_SUB_CHANNEL Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 
-# DEPLOY BUTTON AREA
+## DEPLOY BUTTON AREA
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akhilbaiju/FileSharingTGbot)
